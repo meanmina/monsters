@@ -1,0 +1,5 @@
+A1 north=A2 south=A3 east=A4 west=A5
+A2 north=A3 south=A4 east=A5 west=A1
+A3 north=A1 south=A2 east=A4 west=A5
+A4 north=A3 south=A5 east=A2 west=A1
+A5 north=A1 south=A2 east=A4 west=A3
